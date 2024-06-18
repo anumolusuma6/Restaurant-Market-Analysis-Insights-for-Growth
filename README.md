@@ -2,8 +2,8 @@
 ## Overview
 This project utilizes Zomato data to create two insightful dashboards in Power BI. The primary goal is to help customers optimize their restaurant selection based on their city and to assist businesses in market analysis and expansion strategies.
 
-Dashboards
-Dashboard 1: Customer Optimization
+### Dashboards
+#### Dashboard 1: Customer Optimization
 This dashboard is designed to help customers make informed decisions about restaurant selection in their city. By selecting their city from a slicer, customers can access the following visualizations:
 
 Top 5 Restaurants: A list of the top 5 restaurants in the selected locality based on ratings and popularity.
@@ -13,7 +13,7 @@ Online Delivery Availability: A pie chart depicting the percentage of restaurant
 Currency in the City: The local currency used in the selected city.
 Median Price Range: The median price range of restaurants in the selected city.
 Average Price for 2: The average cost for two people dining out in the selected city.
-Dashboard 2: Market Analysis and Expansion
+####Dashboard 2: Market Analysis and Expansion
 This dashboard is aimed at businesses looking to understand market conditions and identify expansion opportunities. The visualizations include:
 
 Number of Cities with Less Than 15 Restaurants: Identification of cities with fewer than 15 restaurants.
@@ -32,5 +32,5 @@ Market Analysis and Expansion Dashboard:
 Review cities with fewer than 15 restaurants to identify potential expansion areas.
 Analyze the restaurant count per city and the count of cities by the number of restaurants to understand market saturation.
 Consider the top cuisines and median price range in these areas to strategize your business expansion.
-Conclusion
+## Conclusion
 This Power BI project provides comprehensive insights to both customers and businesses. Customers can effortlessly find the best dining options in their city, while businesses can make data-driven decisions for market expansion. By leveraging Zomato data, these dashboards facilitate optimal restaurant selection and strategic business growth.
