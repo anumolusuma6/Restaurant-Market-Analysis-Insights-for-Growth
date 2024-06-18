@@ -13,7 +13,7 @@ Online Delivery Availability: A pie chart depicting the percentage of restaurant
 Currency in the City: The local currency used in the selected city.
 Median Price Range: The median price range of restaurants in the selected city.
 Average Price for 2: The average cost for two people dining out in the selected city.
-####Dashboard 2: Market Analysis and Expansion
+#### Dashboard 2: Market Analysis and Expansion
 This dashboard is aimed at businesses looking to understand market conditions and identify expansion opportunities. The visualizations include:
 
 Number of Cities with Less Than 15 Restaurants: Identification of cities with fewer than 15 restaurants.
