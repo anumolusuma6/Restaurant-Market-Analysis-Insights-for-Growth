@@ -1,5 +1,5 @@
 # Zomato-Data-Analysis-Power-BI-Project
-Overview
+## Overview
 This project utilizes Zomato data to create two insightful dashboards in Power BI. The primary goal is to help customers optimize their restaurant selection based on their city and to assist businesses in market analysis and expansion strategies.
 
 Dashboards
