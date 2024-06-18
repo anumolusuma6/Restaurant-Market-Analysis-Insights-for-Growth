@@ -22,7 +22,7 @@ Restaurant Count per City: The number of restaurants available in each city.
 Count of Cities by Number of Restaurants: A breakdown of cities based on the number of restaurants they have.
 Top 5 Cuisines in Areas with Few Restaurants: Analysis of the most popular cuisines in under-served areas.
 Median Price Range in These Areas: The median price range of restaurants in cities with fewer restaurants.
-How to Use
+## How to Use
 Customer Optimization Dashboard:
 
 Select your city from the slicer to view personalized restaurant recommendations and city-specific information.
